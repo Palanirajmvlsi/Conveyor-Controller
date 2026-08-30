@@ -1,7 +1,6 @@
+Conveyor Controller 1.0
 
- Conveyor Control 1.0
-
-Copyright 2026 (c) WebIntoApp.com
+Copyright 2026
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in the
