@@ -1,5 +1,5 @@
 
-NAGA Conveyor Control 1.0
+ Conveyor Control 1.0
 
 Copyright 2026 (c) WebIntoApp.com
 
