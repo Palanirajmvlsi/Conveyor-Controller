@@ -3,8 +3,8 @@ Here are the ownership and the certification details
 of the NAGA Conveyor Control 1.0
 ---------------------------------------------------
 
-app_name - 						NAGA Conveyor Control
-app_alias - 					nagaconveyorcontrol
+app_name - 						Conveyor Control
+app_alias - 					conveyorcontrol
 app_author_name - 				My Company
 app_author_organizational - 	My Company
 app_author_organization - 		My Company
